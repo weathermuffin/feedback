@@ -7,15 +7,15 @@ and feature requests. GitHub calls these "issues."
 
 **How to Use**
 
-1. Go to the [issues](issues) page
+1. Go to the [issues](https://github.com/weathermuffin/feedback/issues) page
 2. See if any of the existing items covers your question, bug, or request.
 3. If there's already an item, "upvote" the item by giving it a :+1:
-   (thumbs-up) emoji. This will aid the Weathermuffin team prioritize
+   (thumbs-up) emoji. This will help the Weathermuffin team prioritize
    based on interest or demand.
-4. If there isn't already an item pertaining to your topic, then go ahead
+4. If there isn't already an item pertaining to your topic, go ahead
    and create one by clicking the **New Issue** button. From there you'll
    give your new issue a title and a description. See also [creating an
-   issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+   issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 
 Note: In order to leave feedback or vote on an existing item,
 you will need to sign up for a free GitHub account.
