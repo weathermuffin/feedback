@@ -3,7 +3,7 @@
 :cloud: **Your Marine Weather Early Warning System™** :cloud:
 
 This is Weathermuffin's repository for questions, bug reports,
-and feature requests. GitHub calls these "issues."
+and feature requests. Otherwise known as "issues."
 
 **How to Use**
 
